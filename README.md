@@ -1,31 +1,3 @@
-Table of Contents
-
-Project Overview
-
-Motivation
-
-Data Description
-
-Objectives / Research Questions
-
-Methodology
-
-Tools & Technologies
-
-Key Findings / Insights
-
-Dashboard / Visualisations
-
-How to Run / Reproduce
-
-Future Work / Improvements
-
-Licence
-
-Contact
-
-Project Overview
-
 This project analyses booking and cancellation data from OLA rides to understand patterns, trends, and potential insights that can help in operational decision-making. Using historical ride bookings, cancellations, time data, etc., the goal is to extract meaningful metrics and visualisations to inform policies, improve service, reduce cancellations, and enhance user experience.
 
 Motivation
